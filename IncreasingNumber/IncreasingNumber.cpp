@@ -2,8 +2,6 @@
 
 /*
 
-MIT License
-
 Copyright (c) 2019 Nathan Umali <some1namednate at gmail dot com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
