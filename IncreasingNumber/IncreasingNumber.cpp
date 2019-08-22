@@ -2,7 +2,7 @@
 
 /*
 
-Copyright (c) 2019 Nathan Umali <some1namednate at gmail dot com>
+Copyright (c) 2019 Nathan Umali <some1namednate at gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -34,7 +34,7 @@ int main()
 	char incYOrN, againYOrN;
 	bool incYes, again = true;
 
-	cout << "Increasing Number\n\nCopyright (c) 2019 Nathan Umali <some1namednate at gmail dot com>\n\nLicensed under the MIT License. See License.txt.\n\n";
+	cout << "Increasing Number\n\nCopyright (c) 2019 Nathan Umali <some1namednate at gmail.com>\n\nLicensed under the MIT License. See License.txt.\n\n";
 
 	while (again) {
 		incYes = false;
